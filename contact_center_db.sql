@@ -389,7 +389,6 @@ GO
 -- Separamos los permisos por perfil de usuario:
 -- - rol_analista: solo lectura en analytics
 -- - rol_operaciones: lectura/escritura en operaciones
--- - rol_admin: acceso total
 -- ============================================================
 
 -- Crear roles
